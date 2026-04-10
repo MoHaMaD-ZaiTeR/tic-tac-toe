@@ -18,3 +18,5 @@ The computer uses a simple decision-making strategy:
 ## Technologies Used
 - Python
 - Basic algorithms
+
+## for more details, see the included pdf
